@@ -1,0 +1,9 @@
+﻿{
+  "name": "@sentinelops/node",
+  "version": "1.0.0",
+  "description": "Official SentinelOps Node.js and TypeScript client SDK",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "license": "MIT",
+  "dependencies": {}
+}
